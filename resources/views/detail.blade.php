@@ -14,7 +14,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg navbar-dark shadow-lg fixed-top" style="background-color: #0C055E;">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><img src="/img/karismalogo.png" width="60px" alt="karisma academy">Karisma Academy</a>
+          <a class="navbar-brand" href="/detail/{{$id}}"><img src="/img/karismalogo.png" width="60px" alt="karisma academy">Karisma Academy</a>
           <a class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </a>

@@ -75,10 +75,11 @@ class UserController extends Controller
     public function show($id)
     {
         //
-       $data = Crypt::decrypt($id);
-       $data = Web::findOrFail($data);
+       $id ;
+       $data2 = Crypt::decrypt($id);
+       $data = Web::findOrFail($data2);
        
-       return view('detail',compact('data'));
+       return view('detail',compact('data','id'));
     }
 
     /**
