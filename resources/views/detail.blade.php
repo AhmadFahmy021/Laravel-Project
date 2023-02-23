@@ -21,18 +21,6 @@
           <div class="collapse navbar-collapse text-center" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <a href="/" class="btn btn-outline-light"><i class="fa-sharp fa-solid fa-caret-left"></i> Kembali</a>
-              <!-- <li class="nav-item">
-                <a class="nav-link" href="#portfolio">Portfolio</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#tentang">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#layanan">Layanan</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#contact">Contacts</a>
-              </li> -->
             </ul>
           </div>
         </div>
