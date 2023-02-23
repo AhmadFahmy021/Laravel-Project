@@ -189,7 +189,7 @@
   <!-- /.content-wrapper -->
   <footer class="main-footer">
     <div class="float-right d-none d-sm-inline-block">
-      <b>Version</b> 3.2.0
+      <b>Version</b> 1.1.0
     </div>
     <div>Copyright &copy; 2022-{{now()->format('Y')}} <b><a href="https://www.karismaacademy.com/">Karisma Academy</a></b>. All rights reserved.</div>
   </footer>

@@ -15,13 +15,13 @@
     <nav class="navbar navbar-expand-lg navbar-dark shadow-lg fixed-top" style="background-color: #0C055E;">
         <div class="container">
           <a class="navbar-brand" href="/detail/{{$id}}"><img src="/img/karismalogo.png" width="60px" alt="karisma academy">Karisma Academy</a>
-          <a class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          {{-- <a class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
-          </a>
+          </a> --}}
           <div class="collapse navbar-collapse text-center" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
+            {{-- <ul class="navbar-nav ms-auto">
                 <a href="/" class="btn btn-outline-light"><i class="fa-sharp fa-solid fa-caret-left"></i> Kembali</a>
-            </ul>
+            </ul> --}}
           </div>
         </div>
       </nav>
